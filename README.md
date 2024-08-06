@@ -1,6 +1,6 @@
-## Hi there, sou Thiago Ramos Carneiro Mazzetti
+## Hi there, I'm Thiago Ramos Carneiro Mazzetti
 
-
+📚 I am a bachelor's student in information systems
 - 🔭 I’m currently working on Linx Sponte
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
