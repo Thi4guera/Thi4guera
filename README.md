@@ -4,9 +4,9 @@
 
 💻 I’m currently working on Linx Sponte
 
-⚡ I'm enthusiast in the systems area, always seeking to progress and achieve my goals.
-
 👩‍💻 I'm junior support analyst
+
+⚡ I'm enthusiast in the systems area, always seeking to progress and achieve my goals
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
