@@ -1,6 +1,5 @@
 ## Hi there, sou Thiago Ramos Carneiro Mazzetti
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Linx Sponte
 - 🌱 I’m currently learning ...
