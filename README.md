@@ -1,4 +1,4 @@
-## Hi there 👋 sou Thiago R. C. Mazzetti
+## Hi there 👋 sou Thiago Ramos Carneiro Mazzetti
 
 Here are some ideas to get you started:
 
